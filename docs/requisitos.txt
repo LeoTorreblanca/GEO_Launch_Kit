@@ -1,0 +1,14 @@
+REQUISITOS DE SISTEMA Y PRE-INSTALACIÓN
+Autor: Leonel Hernán Torreblanca
+
+Este kit es un PARCHE DE EXTENSIÓN. No contiene el código fuente completo de CLASS
+por razones de peso y licencias.
+
+REQUISITOS:
+1. Tener instalado CLASS (Cosmological Linear Anisotropy Solved Safely) v3.x.
+2. El contenido de este kit debe copiarse dentro de la carpeta raíz de CLASS.
+3. Dependencias de Python: classy, numpy.
+
+INSTRUCCIONES:
+Si ya tiene CLASS instalado, el script '../install_geo.sh' aplicará los cambios
+automáticamente sobre sus archivos .c y recompilará el motor.
