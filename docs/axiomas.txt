@@ -1,0 +1,10 @@
+MARCO AXIOMÁTICO GEO - Leonel Hernán Torreblanca
+Vínculo: osf.io/yhdmz | DNI: 32.669.500
+
+Parámetros Clave:
+- Ángulo Crítico: 45.01°
+- Factor Alpha: 0.534462991
+- Factor de Proyección: 1.08367952522255
+
+La Tensión de Hubble se resuelve como una corrección de perspectiva geométrica
+al observar a través de la membrana proyectada.
