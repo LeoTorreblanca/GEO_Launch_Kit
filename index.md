@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<meta name="google-site-verification" content="<meta name="google-site-verification" content="Kila_Tq12oqpqTSHe5GuDIefLwcCL2V8Zenj-O5PUi4" />" />
+<meta name="google-site-verification" content="Kila_Tq12oqpqTSHe5GuDIefLwcCL2V8Zenj-O5PUi4" />
 
 # GEO Launch Kit
 
